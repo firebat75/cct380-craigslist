@@ -1,0 +1,20 @@
+@import '@fontsource/fira-mono';
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a,
+a:visited {
+	color: #00E;
+	font-weight: normal;
+}
