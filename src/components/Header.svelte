@@ -16,10 +16,10 @@
 				<a href="/">home</a>
 			</li>
 			<li>
-				<a href="">about</a>
+				<a href="https://www.craigslist.org/about/">about</a>
 			</li>
 			<li>
-				<a href="">forum</a>
+				<a href="/forum">forum</a>
 			</li>
 		</ul>
 	</nav>

@@ -1,12 +1,12 @@
 <script>
-	import Header from "../components/Header.svelte";
-	import Footer from "../components/Footer.svelte";
-	import Sidebar from "../components/Sidebar.svelte";
-	import "./styles.css";
+	import Sidebar from "../../components/Sidebar.svelte";
+	import Header from "../../components/Header.svelte";
+	import Footer from "../../components/Footer.svelte";
+	import "../styles.css";
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Listings</title>
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
@@ -18,7 +18,10 @@
 
 		<div class="sidebar-stop">
 			<main>
-				<img class="list" src="src\lib\list.png" alt="list" />
+				<p>
+					showing 5 of 5 results for "concert" in events, gigs, jobs
+				</p>
+				<img class="list" src="src\lib\listings2.png" alt="list" />
 			</main>
 		</div>
 	</body>
@@ -28,7 +31,7 @@
 
 <style>
 	.list {
-		width: 40rem;
+		width: 60rem;
 	}
 	.app {
 		display: flex;
