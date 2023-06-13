@@ -155,7 +155,10 @@
                     <p on:click={removeEvents}>x</p>
                 </div>
                 <div class="image">
-                    <img src="src\lib\events.png" alt="info" />
+                    <img
+                        src="https://raw.githubusercontent.com/firebat75/380test/main/events.png"
+                        alt="info"
+                    />
                 </div>
             </div>
         {/if}
@@ -165,7 +168,10 @@
                     <p on:click={removeJobs}>x</p>
                 </div>
                 <div class="image">
-                    <img src="src\lib\jobs.png" alt="info" />
+                    <img
+                        src="https://raw.githubusercontent.com/firebat75/380test/main/jobs.png"
+                        alt="info"
+                    />
                 </div>
             </div>
         {/if}
@@ -175,7 +181,10 @@
                     <p on:click={removeGigs}>x</p>
                 </div>
                 <div class="image">
-                    <img src="src\lib\gigs.png" alt="info" />
+                    <img
+                        src="https://raw.githubusercontent.com/firebat75/380test/main/gigs.png"
+                        alt="info"
+                    />
                 </div>
             </div>
         {/if}
