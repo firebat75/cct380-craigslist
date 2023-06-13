@@ -18,7 +18,11 @@
 
 		<div class="sidebar-stop">
 			<main>
-				<img class="list" src="src\lib\list.png" alt="list" />
+				<img
+					class="list"
+					src="https://raw.githubusercontent.com/firebat75/380test/main/list.png"
+					alt="list"
+				/>
 			</main>
 		</div>
 	</body>

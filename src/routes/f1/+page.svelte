@@ -17,8 +17,16 @@
 		<h2>disussion forum - supernatural</h2>
 
 		<main>
-			<img class="list" src="src\lib\thread.png" alt="forum" />
-			<img class="list" src="src\lib\thread-footer.png" alt="forum" />
+			<img
+				class="list"
+				src="https://raw.githubusercontent.com/firebat75/380test/main/thread.png"
+				alt="forum"
+			/>
+			<img
+				class="list"
+				src="https://github.com/firebat75/380test/blob/main/thread-footer.png?raw=true"
+				alt="forum"
+			/>
 		</main>
 	</body>
 

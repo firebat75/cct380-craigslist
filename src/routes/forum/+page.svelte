@@ -17,7 +17,11 @@
 		<h2>disussion forum</h2>
 
 		<main>
-			<img class="list" src="src\lib\forum.png" alt="forum" />
+			<img
+				class="list"
+				src="https://github.com/firebat75/380test/blob/main/forum.png?raw=true"
+				alt="forum"
+			/>
 		</main>
 	</body>
 	<a href="f1">dummy link</a>
